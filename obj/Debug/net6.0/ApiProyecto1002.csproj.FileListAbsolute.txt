@@ -1,0 +1,7 @@
+C:\PROYECTOS\ApiProyecto1002\obj\Debug\net6.0\ApiProyecto1002.csproj.AssemblyReference.cache
+C:\PROYECTOS\ApiProyecto1002\obj\Debug\net6.0\ApiProyecto1002.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROYECTOS\ApiProyecto1002\obj\Debug\net6.0\ApiProyecto1002.AssemblyInfoInputs.cache
+C:\PROYECTOS\ApiProyecto1002\obj\Debug\net6.0\ApiProyecto1002.AssemblyInfo.cs
+C:\PROYECTOS\ApiProyecto1002\obj\Debug\net6.0\ApiProyecto1002.csproj.CoreCompileInputs.cache
+C:\PROYECTOS\ApiProyecto1002\obj\Debug\net6.0\ApiProyecto1002.MvcApplicationPartsAssemblyInfo.cs
+C:\PROYECTOS\ApiProyecto1002\obj\Debug\net6.0\ApiProyecto1002.MvcApplicationPartsAssemblyInfo.cache
